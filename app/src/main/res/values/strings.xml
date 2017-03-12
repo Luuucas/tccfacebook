@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teste1</string>
+    <string name="facebook_app_id">207014333109973</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
